@@ -1,1 +1,1 @@
-# ReduxLearningApp
+# ReduxApp
